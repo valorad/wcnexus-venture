@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = ../wcnexus-venture-server
+[submodule "posts"]
+	path = posts
+	url = ../wcnexus-venture-posts
+[submodule "theme"]
+	path = theme
+	url = ../wcnexus-venture-theme
